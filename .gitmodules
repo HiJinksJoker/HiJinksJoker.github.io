@@ -4,3 +4,6 @@
 [submodule "electricDreams"]
 	path = electricDreams
 	url = https://github.com/HiJinksJoker/electricDreams.git
+[submodule "lightbox"]
+	path = lightbox
+	url = https://github.com/HiJinksJoker/lightbox.git
